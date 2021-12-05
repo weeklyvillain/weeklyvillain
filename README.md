@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like having bananas in tacos
 
 
-## Languages And Frameworks
+## Languages & Frameworks
 <p float="left">
   <img src="https://github.com/weeklyvillain/weeklyvillain/blob/main/logos/HTML5.png?raw=true" alt="css" width="100"/>
   <img src="https://github.com/weeklyvillain/weeklyvillain/blob/main/logos/css.png?raw=true" alt="css" width="72"/>
